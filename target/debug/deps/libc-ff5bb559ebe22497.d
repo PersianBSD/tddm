@@ -1,0 +1,11 @@
+D:\plasma\pddm\target\debug\deps\liblibc-ff5bb559ebe22497.rmeta: C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs
+
+D:\plasma\pddm\target\debug\deps\liblibc-ff5bb559ebe22497.rlib: C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs
+
+D:\plasma\pddm\target\debug\deps\libc-ff5bb559ebe22497.d: C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs
+
+C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs:
+C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs:
+C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs:
+C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs:
+C:\Users\aliasadi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs:
