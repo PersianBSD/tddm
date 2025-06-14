@@ -1,1 +1,1 @@
-D:\plasma\pddm\target\debug\libpddm_core.rlib: D:\plasma\pddm\core\src\disk\local.rs D:\plasma\pddm\core\src\disk\mod.rs D:\plasma\pddm\core\src\disk\provider.rs D:\plasma\pddm\core\src\lib.rs
+D:\plasma\pddm\target\debug\libpddm_core.rlib: D:\plasma\pddm\core\src\disk\local.rs D:\plasma\pddm\core\src\disk\mod.rs D:\plasma\pddm\core\src\disk\os\mod.rs D:\plasma\pddm\core\src\disk\os\windows.rs D:\plasma\pddm\core\src\disk\provider.rs D:\plasma\pddm\core\src\lib.rs
