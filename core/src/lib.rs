@@ -1,7 +1,6 @@
 // core/src/lib.rs
 
 pub mod disk;
+pub mod partition;
 
-pub fn hello() {
-    println!("Hello, core!");
-}
+
